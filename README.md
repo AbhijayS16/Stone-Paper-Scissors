@@ -1,1 +1,1 @@
-# Stone-Paper-Scissors
+## Stone-Paper-Scissors using HTML, CSS and Javascript
